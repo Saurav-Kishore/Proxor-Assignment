@@ -16,4 +16,4 @@ Type `java App` in the same src directory on the terminal.
 
 ## App Functionalities
 See this document to understand functionalities of this Application.
-[Description of Program](Saurav-Kishore/Proxor-Assignment/Specification/Assignment.pdf "App Specification")
+[Description of Program](Specification/Assignment.pdf "App Specification")
