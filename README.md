@@ -24,4 +24,4 @@ Automated Unit Testing was not possible for me as the methods were declared priv
 enable good coding practice. I am still new to Unit Testing using JUnit. Will try to 
 figure out a way later. At present, I have uploaded the outputs of the program as
 screenshot of terminal [here](Testing/Testing.png). Pardon me for that. The program does not
-changes the Canvas if input contains points out of boundary of of canvas.
+changes the Canvas, if input contains points out of boundary of the canvas.
