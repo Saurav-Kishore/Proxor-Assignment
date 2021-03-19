@@ -5,7 +5,7 @@ A simple Canvas Drawing App.
 java 15.0.1 was used in our machine.
 
 ## Compiling the program
-Open the Terminal in the src directory and type
+Open the Terminal in the [src](src/) directory and type
 `javac App.java Drawing.java Point.java`
 or Simply, `javac *.java` provided there are no
 other java files except App, Drawing and Point.
