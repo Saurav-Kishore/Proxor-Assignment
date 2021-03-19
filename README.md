@@ -16,4 +16,4 @@ Type `java App` in the same src directory on the terminal.
 
 ## App Functionalities
 See this document to understand functionalities of this Application.
-[Description of Program](https://drive.google.com/file/d/1OuPtPvag99NDF6HfseH6f8HMbUjDmGZE/view?usp=sharing App Specification)
+[Description of Program](https://drive.google.com/file/d/1OuPtPvag99NDF6HfseH6f8HMbUjDmGZE/view?usp=sharing "App Specification")
