@@ -1,7 +1,7 @@
 # Proxor-Assignment
 A simple Canvas Drawing App.
 
-### Pre-requisites
+### Requirements
 java 15.0.1 was used in our machine.
 
 ## Compiling the program
